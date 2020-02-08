@@ -1,5 +1,7 @@
 function demo_ECFG_1()
-% Huang Dong. May 23, 2015.
+% Demo for the ECFG algorithm proposed in the following paper:
+% Dong Huang, Jian-Huang Lai and Chang-Dong Wang. 
+% Ensemble Clustering Using Factor Graph, Pattern Recognition, 2016, 50, pp.131-142.
 
 dataset =  'semeion';
 % dataset =  'MNIST';
